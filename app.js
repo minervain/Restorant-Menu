@@ -123,7 +123,7 @@ container2.appendChild(btnPasta)
 const btnCocktail=document.createElement("button")
 btnCocktail.type="button"
 btnCocktail.classList.add("btn,btn-warning")
-btnCocktail.textContent="Kokteyl"
+btnCocktail.textContent="İÇECEK"
 btnCocktail.id="cocktail"
 
 const container3=document.querySelector(".btn-container")
